@@ -16,7 +16,10 @@ verrePat = verre("Pat", "44:BF:E3:08:44:5A")
 verreRach = verre("Rachou", "44:BF:E3:06:A3:E9")
 
 # On pourrait aussi utiliser un tableau des verres, par exemple:
-# 
+# mesVerres = []
+# mesVerres.append(verre("Rachou", "44:BF:E3:06:A3:E9"))
+#
+# Voir bud-party.py pour un exemple complet.
 
 
 
