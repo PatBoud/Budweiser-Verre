@@ -16,8 +16,8 @@ from budverre import verre
 mesVerres = []
 
 # Delais min et max entre les "buts"., en secondes
-delaisMin = 20        # 5 minutes
-delaisMax = 25       # 15 minutes
+delaisMin = 300  # 300 secondes = 5 minutes
+delaisMax = 900  # 900 secondes = 15 minutes
 
 try:
 	print("- DEBUT DU PARTY -")
