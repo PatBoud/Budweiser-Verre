@@ -1,6 +1,9 @@
-Bud-Verre - Controleur de Verres Lumiere de but Budweiser
-Par: PatBoud
-Date: 2016-09-22
+#Bud-Verre
+##Controleur de Verres Lumiere de but Budweiser
+
+**Par: PatBoud**
+
+*Date: 2016-09-22*
 
 Vous permet de faire clignoter des verres lumiere de but Budweiser a volonte.
 
@@ -16,4 +19,9 @@ Librairies Python:
 
 Information requise sur les verres:
 
-MAC Address: On peut l'obtenir, depuis le systeme linux, en executant la commande "sudo hcitool lescan"
+- MAC Address: On peut l'obtenir, depuis le systeme linux, en executant la commande "sudo hcitool lescan"
+
+
+**To-Do**
+- Faire gerer la liste de verres par la librairie
+    - Ajouter une methode .random() pour faire clignoter un verre au hasard
